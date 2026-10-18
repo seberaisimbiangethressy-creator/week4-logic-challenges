@@ -1,5 +1,5 @@
 // ROUND 3 - Loops & patterns (Challenge)
-// Revision copy: try each one yourself first, then compare with the plan.
+
 
 // ---------------------------------------------------------------
 // 13. sumTo(n)
