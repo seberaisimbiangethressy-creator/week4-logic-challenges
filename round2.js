@@ -1,5 +1,5 @@
 // ROUND 2 - Strings (Core)
-// Revision copy: try each one yourself first, then compare with the plan.
+
 
 // ---------------------------------------------------------------
 // 6. reverseString(str)
@@ -92,10 +92,6 @@ console.log(isPalindrome("A man, a plan, a canal: Panama")) // true
 console.log(isPalindrome("hello")) // false
 console.log(isPalindrome("")) // true (edge)
 
-// Comparison: I could do `cleaned === reverseString(cleaned)` (reuses challenge 6,
-// very readable) or use two pointers like above. Reuse is shorter and clearer;
-// two pointers is a little cleverer and stops at the first mismatch without
-// building a second string. For a beginner course I would pick the reuse version.
 
 // ---------------------------------------------------------------
 // 9. titleCase(str)
@@ -220,7 +216,7 @@ function compress(str) {
       count = 1
     }
   }
-  result += current + count // do not forget the last run
+  result += current + count 
   return result
 }
 console.log("compress")
