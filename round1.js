@@ -1,10 +1,10 @@
 // ROUND 1 - Numbers & conditions (Warm-up)
-// Revision copy: read the pseudocode first, try to write the code yourself, then compare.
+
 
 // ---------------------------------------------------------------
 // 1. isLeapYear(year)
 /*
-Understand: input = year (number), output = true/false
+ input = year (number), output = true/false
 Examples:
 2024 -> true (divisible by 4, not a century)
 1900 -> false (century, not divisible by 400)
