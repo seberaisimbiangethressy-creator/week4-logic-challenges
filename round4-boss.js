@@ -1,5 +1,5 @@
 // BOSS ROUND (bonus)
-// Revision copy: try each one yourself first, then compare with the plan.
+
 
 // ---------------------------------------------------------------
 // 18. validatePassword(pw)
