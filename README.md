@@ -1,6 +1,6 @@
-# week4-logic-challenges (revision notes)
+# week4-logic-challenges 
 
-Practice repo for the Workshop logic challenges. Written in plain JavaScript and run with Node.js (`node round1.js`).
+ repo for the Workshop logic challenges. Written in plain JavaScript and run with Node.js (`node round1.js`).
 
 ## Files
 
